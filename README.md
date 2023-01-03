@@ -1,6 +1,7 @@
 ### Hi!
 
-I'm Brice and I'm a software engineer for more than a year.
+I'm Brice and I'm a software engineer for more than a year. I've been working on Ruby On Rails, Javascript and now React.
+I learned how to use and I use frequently haml, Alpine.js, Tailwind and Hotwire.
 
 
 [You will find my portfolio and resume here.](https://badjivon.fly.dev "You will find my portfolio and resume here.")
