@@ -8,7 +8,7 @@ I learned how to use and I use frequently haml, Alpine.js, Tailwind and Hotwire.
 
 😄 Pronouns: He/Him
 
-⚛️ Currently learning React (the Epic React course by Kent. C. Dodds is incredible)
+⚛️ Currently learning React, Remix and Typescript
 
 🎮 Currently working on a basic gaming backlog tracker with React and Rails, using the react-rails gem and the RAWG api (DONE, now I guess I can add React to my resume)
 
