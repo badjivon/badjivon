@@ -12,6 +12,4 @@ I am currently working at Ville de Paris, which is probably the frenchiest job I
 
 ⚛️ Currently learning Viewcomponent, Docker and Stop devaluating my own work
 
-🎮 Currently working on a basic gaming backlog tracker with React and Rails, using the react-rails gem and the RAWG api (DONE, now I guess I can add React to my resume)
-
-💬 Ask me about: Final Fantasy XIV's free trial until level 60 that includes the critically acclaimed extension Heavensward
+💬 Ask me about: Final Fantasy XIV's free trial until level 70 that includes the critically acclaimed extension Stormblood
